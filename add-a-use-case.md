@@ -6,15 +6,15 @@ permalink: /how-to/add-a-use-case
 
 # 🔧 How to Add a Use Case
 
-The [_XAI Demonstrator_](https://xai-demonstrator.github.io/) comprises a collection of fully independent use cases.
-Each use case aims to illustrate a particular application of Explainable AI (XAI) methods.
+The _XAI Demonstrator_ is a collection of fully independent use cases.
+Each use case aims to illustrate a particular application of XAI methods.
 
-On this page, we show you how to add another use case.
+In this document, we show how to add a custom use case to the XAI Demonstrator.
 In the process, we discuss some of our fundamental design considerations and give an overview of the architecture. 
 
 ## What is a "use case"?
 
-On a technical level, each use case consists of a user interface (frontend) paired with a stateless microservice (backend).
+On a technical level, each use case comprises a user interface (frontend) and a stateless microservice (backend).
 
 The frontend is a single-page web application (SPA) that the users interact with on their smartphone.
 While the frontend is arguably the component most challenging to design, from a technical perspective, it's a fairly standard and lightweight web app.
@@ -22,12 +22,7 @@ While the frontend is arguably the component most challenging to design, from a 
 The backend, on the other hand, is where the AI predictions and corresponding explanations are generated.
 (Throughout this guide, we will assume that "the AI" is some sort of machine-learning model. 
 In line with most common machine-learning frameworks, we will refer to all model outputs "predictions".)
-
 The backend provides an HTTP-API that the frontend calls to request and receive predictions and explanations.
-From a technical point of view, the frontend (that runs in the users' web browser) and the backend (which is hosted on a server) are two separate entities.
-Indeed, in the more advanced deployment configurations of the _XAI Demonstrator_, the two are usually not provided through the same service.
-
-In this guide, however, we will take a designer's perspective and consider the entire use case as one single artifact.
 
 > 🔎 **A note on code organization**
 >
@@ -45,12 +40,12 @@ In this guide, however, we will take a designer's perspective and consider the e
 > - `deployment/` Deployment configurations
 > - `landing-page/` A service that provides a common landing page for multiple use cases
 
+Why Docker?
+
 ## Adding a use case
 
 Each use case is entirely self-contained and resides in its own top-level directory.
-
-
-All _XAI Demonstrator_ use cases adhere to the following basic structure and naming convention:
+All _XAI Demonstrator_ use cases adhere to this basic structure and naming convention:
 ```python
 use-case/
 |
@@ -103,7 +98,7 @@ You can access it at http://localhost:8000.
 
 ### Create the frontend
 
-We use VueJS. Generally with Mint-UI components.
+We use VueJS.
 
 ```bash
 cd use-case
@@ -168,5 +163,4 @@ docker run
 
 ### Optional: Configure GitHub Actions
 
-### Optional: Advanced deployment options
-
+### Optional: Add use case to XAI Demonstrator instance 
