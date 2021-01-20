@@ -1,3 +1,9 @@
+---
+layout: page
+title: "How to Add a Use Case"
+permalink: /how-to/add-a-use-case
+---
+
 # 🔧 How to Add a Use Case
 
 The _XAI Demonstrator_ is a collection of fully independent use cases.
