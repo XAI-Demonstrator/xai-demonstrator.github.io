@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "How to Add a Use Case"
-permalink: how-to/add-a-use-case
 ---
 
 # 🔧 How to Add a Use Case
