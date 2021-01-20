@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: XAI Demonstrator
 description: Experience Explainable AI at First Hand
+show_downloads: false
+github:
+  repository_url: https://www.github.com/xai-demonstrator/xai-demonstrator
