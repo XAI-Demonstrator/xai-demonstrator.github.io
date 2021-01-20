@@ -1,3 +1,15 @@
-## Discover User-Centric Explainable AI
+# Discover User-Centric Explainable AI
 
-The **XAI Demonstrator** is a modular platform that lets users interact with XAI systems.
+The **XAI Demonstrator** is a modular platform that lets users interact with production-grade Explainable AI (XAI) systems.
+
+**Curious? You can check out the XAI Demonstrator at [xaidemo.de](https://test.xaidemo.de)!**
+
+## What is User-Centric XAI?
+
+
+## How Tos
+
+- [How to Add a Use Case](./how-to/add-a-use-case.html)
+
+## Team
+
