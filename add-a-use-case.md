@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How to Add a Use Case"
-permalink: /how-to/add-a-use-case
+permalink: /how-to/add-a-use-case2
 ---
 # 🔧 How to Add a Use Case
 
