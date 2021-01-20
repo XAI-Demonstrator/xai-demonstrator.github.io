@@ -9,7 +9,5 @@ The **XAI Demonstrator** is a modular platform that lets users interact with pro
 
 ## How Tos
 
-- [How to Add a Use Case](./how-to/add-a-use-case.html)
-
 ## Team
 
