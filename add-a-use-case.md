@@ -3,6 +3,7 @@ layout: page
 title: "How to Add a Use Case"
 permalink: /how-to/add-a-use-case
 ---
+
 # 🔧 How to Add a Use Case
 
 The [_XAI Demonstrator_](https://xai-demonstrator.github.io/) comprises a collection of fully independent use cases.
@@ -163,7 +164,7 @@ With this Docker file, the use case can be built and started:
 ```bash
 cd use-case
 docker run
-````
+```
 
 ### Optional: Configure GitHub Actions
 
