@@ -6,8 +6,5 @@ The **XAI Demonstrator** is a modular platform that lets users interact with pro
 
 ## What is User-Centric XAI?
 
-
-## How Tos
-
-## Team
+## Learn more!
 
