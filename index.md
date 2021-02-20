@@ -34,7 +34,7 @@ Zielgruppen des XAI-Demonstrators:
 
 **Zum XAI-Demonstrator: [xaidemo.de](https://www.xaidemo.de)**
 
-**Zur Forschungsgruppe: [uni-ulm.de](https://www.uni-ulm.de/mawi/iba/forschung/forschungsthemen/explainable-artificial-intelligence/)**
+**Zur Forschungsgruppe: [uni-ulm.de/IBA/XAI](https://www.uni-ulm.de/mawi/iba/forschung/forschungsthemen/explainable-artificial-intelligence/)**
 
 **Zur technischen Beschreibung: [xai-demonstrator.github.io](https://xai-demonstrator.github.io/xai-demonstrator/)**
  
