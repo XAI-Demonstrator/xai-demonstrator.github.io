@@ -2,7 +2,7 @@
 
 Der **XAI-Demonstrator** ist eine modulare Plattform, auf der AnwenderInnen live mit XAI-Systemen interagieren können.
 
-**Interesse? Besuche den XAI-Demonstrator: [xaidemo.de](https://test.xaidemo.de)!**
+**Interesse? Besuche den XAI-Demonstrator: [xaidemo.de](https://www.xaidemo.de)!**
 
 ## Was ist Erklärbare KI?
 
@@ -23,7 +23,7 @@ Zielgruppen des XAI-Demonstrators:
 
 *Die breite Öffentlichkeit* – erkundet im gesellschaftlichen Diskurs die Potenziale und Grenzen von XAI auf dem Weg zu einem selbstbestimmten und verantwortungsvollen Umgang mit KI.
 
-*Forschende* – nutzen den XAI-Demonstrator, um neue XAI-Methoden an einfachen Schnittstellen in einen bestehenden Use Case einzubinden, eigene Use Cases zu implementieren oder Nutzerbefragungen durchzuführen. Die Implementierung und technische Dokumentation ist Open-Source verfügbar.
+*Forschende* – nutzen den XAI-Demonstrator, um neue XAI-Methoden an einfachen Schnittstellen in einen bestehenden Use Case einzubinden, eigene Use Cases zu implementieren oder Nutzerbefragungen durchzuführen. Die technische Dokumentation und Implementierung ist Open-Source verfügbar ([xai-demonstrator.github.io](https://xai-demonstrator.github.io/xai-demonstrator/), [github.com/XAI-Demonstrator](https://github.com/XAI-Demonstrator/xai-demonstrator)).
 
 
 ## Use Case I
@@ -31,4 +31,13 @@ Zielgruppen des XAI-Demonstrators:
 ## Use Case II
 
 ## Weiterführende Links
+
+**Zum XAI-Demonstrator: [xaidemo.de](https://www.xaidemo.de)**
+
+**Zur Forschungsgruppe: [uni-ulm.de](https://www.uni-ulm.de/mawi/iba/forschung/forschungsthemen/explainable-artificial-intelligence/)**
+
+**Zur technischen Beschreibung: [xai-demonstrator.github.io](https://xai-demonstrator.github.io/xai-demonstrator/)**
+ 
+**Zum Github-Repository: [github.com/XAI-Demonstrator](https://github.com/XAI-Demonstrator/xai-demonstrator)**
+
 
