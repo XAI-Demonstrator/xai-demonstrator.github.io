@@ -107,7 +107,7 @@ Die Grundidee von LIME ist es, ein lineares und damit leicht interpretierbares M
 
 **Zum XAI-Demonstrator: [xaidemo.de](https://www.xaidemo.de)**
 
-**Zur Forschungsgruppe: [uni-ulm.de/IBA/XAI](https://www.uni-ulm.de/mawi/iba/forschung/forschungsthemen/explainable-artificial-intelligence/)**
+**Zur Forschungsgruppe: [uni-ulm.de/IBA/XAI](https://www.uni-ulm.de/mawi/iba/forschung/forschungsthemen-der-stiftungsprofessur-fuer-betriebswirtschaftliches-informationsmanagement/explainable-artificial-intelligence/)**
 
 **Zur technischen Beschreibung: [xai-demonstrator.github.io](https://xai-demonstrator.github.io/xai-demonstrator/)**
  
